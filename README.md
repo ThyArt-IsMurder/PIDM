@@ -80,7 +80,7 @@ PIDM supports multiple languages. You can contribute via `.ts` and `.qm` files u
 - [x] Speed limiting per download
 - [ ] Stream Download support
 - [ ] Grabbing stream videos in extention
-- [ ] Soon...
+- [ ] Coming Soon...
 
 ---
 
